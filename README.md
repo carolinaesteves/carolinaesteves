@@ -1,4 +1,4 @@
-### Oiii, eu sou a Ana Esteves 👋
+### Oiii, eu sou a Ana Carolina Esteves 👋
 
 
 <!-- - 🔭 I’m currently working on ... <> -->
