@@ -2,7 +2,7 @@
 
 
 <!-- - 🔭 I’m currently working on ... <> -->
-- 💻 Atualmente eu trabalho como estagiária na IBM Brasil.
+- 💻 Sou estudante de Engenharia da Computação
 - 🌱 Tenho interesse em Dados e Inteligência Artificial.
 - 😄 Pronomes: ela/dela
 
